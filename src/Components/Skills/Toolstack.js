@@ -5,7 +5,8 @@ import {
 	SiPostman,
 	SiHeroku,
 	SiGithub,
-	SiGit
+	SiGit,
+	SiJira
 } from "react-icons/si";
 
 function Toolstack() {
@@ -27,8 +28,8 @@ function Toolstack() {
 				<p>Postman</p>
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
-				<SiHeroku />
-				<p>Heroku</p>
+				<SiJira />
+				<p>Jira</p>
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
 				<SiVisualstudiocode />

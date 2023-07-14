@@ -31,7 +31,7 @@ function Projects() {
 							creates as repositories user can make versions and also add
 							other users as collaborators in the project it has been made using the MERN stack"
 							techstack="React | Express | Nodejs | MongoDB"
-							git="https://github.com/AhmedAli9991/Document-CVS-Centralized-Verion-Control-System-Full-stack-APP"
+							git="https://github.com/abdulsamad619/Document-CVS-Centralized-Verion-Control-System-Full-stack-APP"
 						/>
 					</Col>
 
@@ -42,7 +42,7 @@ function Projects() {
 							description="This is a complete blog creation App which user can use to build blogs after
 							 they register and other can also vist and view the blog"
 							techstack="React | FastAPI | MongoDB | ChakraUI"
-							git="https://github.com/AhmedAli9991/Blog-Creator-Fullstack-Application"
+							git="https://github.com/abdulsamad619/Blog-Creator-Fullstack-Application"
 						/>
 					</Col>
 
@@ -54,7 +54,7 @@ function Projects() {
 							and predict what there expense will be if they follow same trend users must make an account on the 
 							Appto use it"
 							techstack="React | FastAPI | Postgres"
-							git="https://github.com/AhmedAli9991/Expense-Tracker-App"
+							git="https://github.com/abdulsamad619/Expense-Tracker-App"
 						/>
 					</Col>
 
@@ -64,7 +64,7 @@ function Projects() {
 							title="Simple Version Control"
 							description="This is a FullStack Simple Version Control application made using the MERN stack"
 							techstack="React | Express | Nodejs | MongoDB"
-							git="https://github.com/AhmedAli9991/Version-Control-Fullstack-APP"
+							git="https://github.com/abdulsamad619/Version-Control-Fullstack-APP"
 						/>
 					</Col>
 
@@ -76,7 +76,7 @@ function Projects() {
 							and user registers himself the user can then book appointments and reschedule or remove 
 							appointments himself the app manages the doctors Schedule"
 							techstack="HTML | CSS | Laravel | MySQL"
-							git="https://github.com/AhmedAli9991/Doctor-Appointment-Web-App"
+							git="https://github.com/abdulsamad619/Doctor-Appointment-Web-App"
 						/>
 					</Col>
 
@@ -88,7 +88,7 @@ function Projects() {
 							 manages tasks of multiple users and authenticates them using JWTs one version was built with React 
 							 and an other was built with Angular as frontend"
 							techstack="React/Angular | Express | Nodejs | MongoDB"
-							git="https://github.com/AhmedAli9991/Task-manager"
+							git="https://github.com/abdulsamad619/Task-manager"
 						/>
 					</Col>
 
@@ -99,7 +99,7 @@ function Projects() {
 							description="A simple App which Tracks take cases of covid 19 Globally an for individual 
 							countries it uses third party Api."
 							techstack="React Native"
-							git="https://github.com/AhmedAli9991/Covid-APP-React-Native"
+							git="https://github.com/abdulsamad619/Covid-APP-React-Native"
 						/>
 					</Col>
 
@@ -110,7 +110,7 @@ function Projects() {
 							description="A simple game where two players can play TIC TAC TOE 
 							and get the winner or draw."
 							techstack="React Native"
-							git="https://github.com/AhmedAli9991/TicTacToe-ReactNative"
+							git="https://github.com/abdulsamad619/TicTacToe-ReactNative"
 						/>
 					</Col>
 				</Row>

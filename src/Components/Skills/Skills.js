@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
-import Frontend from "./Frontend";
+// import Frontend from "./Frontend";
 import TechCard from "./TechCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
@@ -37,11 +37,11 @@ function Skills() {
           </Col>
         </Row>
         <Backend/>
-        <Frontend />
+        {/* <Frontend /> */}
         <Database/>
         <Toolstack />
 
-        <Github />
+        {/* <Github /> */}
       </Container>
     </Container>
   );

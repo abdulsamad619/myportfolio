@@ -19,28 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a FulStack Developer from Pakistan. I have always been passionate about problem solving 
-              which eventually led me into Computer Science also a certified Otaku who loves
-              <i>
-                <b className="purple"> anime and manga </b>
-              </i>
-              <br />
-              My field of Interest's are
-              <i>
-                <b className="purple"> FullStack Web development and Data Science </b>
-              </i>
-              <br />
+              I am a Backend Developer from Pakistan. I have always been passionate about problem solving 
+              which eventually led me into Computer Science.
+              
               Whenever possible, I like to apply my passion to real world probelms 
               my favorite  <b className="purple">Backend Frameworks </b> are 
-              <i> <b className="purple">FastAPI, Node.js and Express  </b>  </i>
-               and for <b className="purple"> Frontend </b> 
-                I like
-              <i>
-                <b className="purple"> React and Angular </b>
-              </i>
-              Currently a Student at Comsats University Islamabad but have hopes of having an impact 
-              on the tech world 
-            </p>
+              <i> <b className="purple">Gin, Nest.js and Express  </b>  </i>
+              </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -57,7 +42,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/AhmedAli9991"
+                  href="https://github.com/abdulsamad619"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -67,7 +52,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:ahmedalibalti2000@gmail.com"
+                  href="mailto:abdulsamad.p98@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +62,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/ahmed-ali-a8b415215/"
+                  href="https://www.linkedin.com/in/abdulsamadpervaiz/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +70,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
               <a
                   href="https://stackoverflow.com/users/18118585/ahmed-ali"
                   target="_blank"
@@ -94,7 +79,7 @@ function Home2() {
                 >
                   <FaStackOverflow />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>

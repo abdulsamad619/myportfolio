@@ -32,7 +32,7 @@ export default function App() {
         <ScrollToTop />
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/project" component={Projects} />
+          {/* <Route path="/project" component={Projects} /> */}
           <Route path="/skills" component={Skills} />
           <Route path="/resume" component={Resume} />
           <Route path="/contact" component={Contact} />

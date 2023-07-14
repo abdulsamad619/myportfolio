@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { DiJsBadge, DiPython, DiNodejs,DiGo } from "react-icons/di";
-import { SiFastapi,SiExpress} from "react-icons/si";
+import { SiFastapi,SiExpress,SiNestjs} from "react-icons/si";
 
 function Backend() {
 	return (
@@ -13,10 +13,10 @@ function Backend() {
 				<DiJsBadge />
 				<p>JavaScript</p>
 			</Col>
-			<Col xs={4} md={2} className="tech-icons">
+			{/* <Col xs={4} md={2} className="tech-icons">
 				<DiPython/>
 				<p>Python</p>
-			</Col>
+			</Col> */}
             <Col xs={4} md={2} className="tech-icons">
 				<DiGo/>
 				<p>Go</p>
@@ -26,8 +26,8 @@ function Backend() {
 				<p>Node js</p>
 			</Col>
 			<Col xs={4} md={2} className="tech-icons">
-				<SiFastapi />
-				<p>FastAPI</p>
+				<SiNestjs />
+				<p>Nest js</p>
 			</Col><Col xs={4} md={2} className="tech-icons">
 				<SiExpress />
 				<p>Express</p>

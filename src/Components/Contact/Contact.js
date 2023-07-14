@@ -29,8 +29,8 @@ function Contact() {
                     className="con_ico"
                     sx={{ fontSize: 45 }}
                   />
-                  <a href="tel:+92 335 0946913" className="con-det">
-                    +92 335 0946913
+                  <a href="tel:+92 335 9631201" className="con-det">
+                    +92 335 9631201
                   </a>
                 </div>
 
@@ -41,10 +41,10 @@ function Contact() {
                     sx={{ fontSize: 45 }}
                   />
                   <a
-                    href="https://www.linkedin.com/in/ahmed-ali-a8b415215/"
+                    href="https://www.linkedin.com/in/abdulsamadpervaiz/"
                     className="con-det"
                   >
-                    Ahmed Ali
+                    Abdul Samad
                   </a>
                 </div>
                 <div>
@@ -54,12 +54,12 @@ function Contact() {
                     sx={{ fontSize: 45 }}
                   />
                   <a
-                    href="mailto:ahmedalibalti2000@gmail.com"
+                    href="mailto:abdulsamad.p98@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                     className="con-det"
                   >
-                    ahmedalibalti2000@gmail.com
+                    abdulsamad.p98@gmail.com
                   </a>
                 </div>
               </div>
@@ -67,7 +67,7 @@ function Contact() {
               <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/AhmedAli9991"
+                  href="https://github.com/abdulsamad619"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Contact() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:ahmedalibalti2000@gmail.com"
+                  href="mailto:abdulsamad.p98@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Contact() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/ahmed-ali-a8b415215/"
+                  href="https://www.linkedin.com/in/abdulsamadpervaiz/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,7 +95,7 @@ function Contact() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
               <a
                   href="https://stackoverflow.com/users/18118585/ahmed-ali"
                   target="_blank"
@@ -104,7 +104,7 @@ function Contact() {
                 >
                   <FaStackOverflow />
                 </a>
-              </li>
+              </li> */}
             </ul>
             </Col>
           </Row>
