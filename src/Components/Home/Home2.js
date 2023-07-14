@@ -19,12 +19,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Backend Developer from Pakistan. I have always been passionate about problem solving 
-              which eventually led me into Computer Science.
-              
-              Whenever possible, I like to apply my passion to real world probelms 
-              my favorite  <b className="purple">Backend Frameworks </b> are 
-              <i> <b className="purple">Gin, Nest.js and Express  </b>  </i>
+              I am a passionate Backend Developer from Pakistan, deeply interested in computer science. 
+              With expertise in <i> <b className="purple"> Node.js, Golang, Gin, and Nest.js </b> </i>
+              I craft robust and efficient systems. 
+              I specialize in <i> <b className="purple"> Micro-services Architecture</b></i>, 
+              leveraging technologies like<i> <b className="purple">Kafka </b> </i>and <i> <b className="purple">gRPC</b></i> for seamless data flow and communication. 
+              I excel in designing and implementing <i> <b className="purple">REST APIs</b> </i>for seamless integration. 
+              Join me on an innovative journey where we harness Node.js, Golang, Gin, Nest.js, microservices, Kafka, gRPC, and REST APIs to shape the digital landscape. 
+              <i> <b className="purple">Let's push the boundaries of what's possible in computer science together.</b></i>
               </p>
           </Col>
           <Col md={4} className="myAvtar">
